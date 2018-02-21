@@ -20,7 +20,6 @@ void remove(const int* from, int* to, size_t location, size_t fromLength) {
 			
 		}
 	}
-
 }
 int main() {
 	int arr[5] = { 1, 2, 3, 4, 5 };
